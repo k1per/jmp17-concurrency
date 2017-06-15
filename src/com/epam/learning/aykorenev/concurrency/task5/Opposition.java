@@ -1,4 +1,4 @@
-package com.epam.learning.aykorenev.concurrency;
+package com.epam.learning.aykorenev.concurrency.task5;
 
 import java.util.Random;
 
